@@ -21,7 +21,7 @@
     "github": "^9.2.0",
     "github-webhook-handler": "^0.6.0",
     "http": "0.0.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "nodegit": "^0.18.3",
     "reddit-api": "0.0.24",
     "remove": "^0.1.5",
